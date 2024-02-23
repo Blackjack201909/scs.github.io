@@ -1,0 +1,1 @@
+import{U as i}from"./cloudDB.d318324a.js";import{aj as e}from"./index.4f390c6a.js";const s=i.getInstance();function a(o,t){e.create({type:o,message:t,icon:"cloud_done",position:"top",timeout:5e3})}export{s as c,a as s};

@@ -1,0 +1,1 @@
+import{aQ as s}from"./index.4f390c6a.js";const i=s("search_key",{state:()=>({key:"",isShow:!1,isEnable:!1}),getters:{getKey:e=>e.key||"",getShow:e=>e.isShow,getEnable:e=>e.isEnable},actions:{setKey(e){this.key=e||""},toggleShow(){this.isShow=!this.isShow},toggleEnable(){this.isEnable=!this.isEnable}}});export{i as u};
